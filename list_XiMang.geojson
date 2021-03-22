@@ -20,7 +20,6 @@
 {"type":"Feature","geometry":{"type":"Point","coordinates":[107.0904473,21.02184099999998,0]},"properties":{"STT":38,"Tên":"VICEM Hạ Long","Lat":21.0218,"Long":107.09,"name":"VICEM Hạ Long"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[107.2527813,21.00150300000002,0]},"properties":{"STT":39,"Tên":"Xi măng Cẩm Phả","Lat":21.0015,"Long":107.253,"name":"Xi măng Cẩm Phả"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[107.0438503,21.02537100000001,0]},"properties":{"STT":40,"Tên":"Xi măng Thăng Long","Lat":21.0254,"Long":107.044,"name":"Xi măng Thăng Long"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[0,0,0]},"properties":{"STT":37,"Tên":"Xi măng Đại Việt","Lat":0,"Long":0,"name":"Xi măng Đại Việt"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[107.8468476,15.77330839999999,0]},"properties":{"STT":36,"Tên":"Xi măng Xuân Thành Quảng Nam","Lat":15.7733,"Long":107.847,"name":"Xi măng Xuân Thành Quảng Nam"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[106.6629481,17.25342810000001,0]},"properties":{"STT":34,"Tên":"Xi măng Vạn Ninh","Lat":17.2534,"Long":106.663,"name":"Xi măng Vạn Ninh"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[106.265814,17.79819230000001,0]},"properties":{"STT":35,"Tên":"Xi măng Sông Gianh","Lat":17.7982,"Long":106.266,"name":"Xi măng Sông Gianh"}},
