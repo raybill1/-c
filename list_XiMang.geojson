@@ -33,7 +33,7 @@
 {"type":"Feature","geometry":{"type":"Point","coordinates":[105.7159623,19.27294310000001,0]},"properties":{"STT":24,"Tên":"VICEM Hoàng Mai","Lat":19.2729,"Long":105.716,"name":"VICEM Hoàng Mai"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[105.3445959,18.93848429999999,0]},"properties":{"STT":25,"Tên":"Xi măng sông Lam","Lat":18.9385,"Long":105.345,"name":"Xi măng sông Lam"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[105.0630603,18.93778910000002,0]},"properties":{"STT":26,"Tên":"Xi măng sông Lam 2","Lat":18.9378,"Long":105.063,"name":"Xi măng sông Lam 2"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[0,0,0]},"properties":{"STT":27,"Tên":"Xi măng Tân Thắng","Lat":0,"Long":0,"name":"Xi măng Tân Thắng"}},
+
 {"type":"Feature","geometry":{"type":"Point","coordinates":[106.4847493,10.60321339999999,0]},"properties":{"STT":57,"Tên":"Trạm nghiền Long An","Lat":10.6032,"Long":106.485,"name":"Trạm nghiền Long An"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[106.4897003,21.56737400000001,0]},"properties":{"STT":23,"Tên":"Xi măng Đồng Bành","Lat":21.5674,"Long":106.49,"name":"Xi măng Đồng Bành"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[104.6128453,10.1652333,0]},"properties":{"STT":21,"Tên":"Xi măng Kiên Lương","Lat":10.1652,"Long":104.613,"name":"Xi măng Kiên Lương"}},
