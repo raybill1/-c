@@ -1,7 +1,7 @@
 {"type":"FeatureCollection", "features":[
 {"type":"Feature","geometry":{"type":"Point","coordinates":[104.9588683,21.74900800000002,0]},"properties":{"STT":54,"Tên":"Xi măng Yên Bình","Lat":21.749,"Long":104.959,"name":"Xi măng Yên Bình"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[106.7327443,10.65311329999999,0]},"properties":{"STT":19,"Tên":"Trạm nghiền Hiệp Phước","Lat":10.6531,"Long":106.733,"name":"Trạm nghiền Hiệp Phước"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[0,0,0]},"properties":{"STT":20,"Tên":"Xi măng Sài Gòn","Lat":0,"Long":0,"name":"Xi măng Sài Gòn"}},
+ 
 {"type":"Feature","geometry":{"type":"Point","coordinates":[106.8107404,10.78199800000001,0]},"properties":{"STT":56,"Tên":"Trạm nghiền Phú Hữu","Lat":10.782,"Long":106.811,"name":"Trạm nghiền Phú Hữu"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[106.7762241,10.75544569999998,0]},"properties":{"STT":64,"Tên":"Trạm nghiền INSEE Cát Lái","Lat":10.7554,"Long":106.776,"name":"Trạm nghiền INSEE Cát Lái"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[107.3684909,16.5427075,0]},"properties":{"STT":52,"Tên":"Xi măng Đồng Lâm","Lat":16.5427,"Long":107.368,"name":"Xi măng Đồng Lâm"}},
